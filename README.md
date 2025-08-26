@@ -1,6 +1,25 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
 
+# sh1yuu / README.md
 
+![T-Rex Game](https://user-images.githubusercontent.com/25181517/117448147-7c0e0e00-af2b-11eb-9b6e-ea1e0c8f8a8d.gif)
+
+## VISITORS
+1,090
+
+[![](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sh1yuu)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sh1yuu/)
+[![](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sh1yuu/)
+
+## About me
+
+I am a Frontend developer from Belarus.
+
+- 👋 Hello everyone, my name is Mikhail.
+- ✨ I like to create something new or improve the old, bringing it to a well-fledged quality product that you can enjoy using.
+- 🚀 Striving to improve my skills and broaden my experience.
+- 🌍 I want to find a team with whom I can work together to create something that benefits people.
+- 💻 I am actively looking for a job right now. Here is my CV. Here is my [portfolio](https://sh1yuu.github.io/).
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&#x26;logo=ruby&#x26;logoColor=white" alt="Ruby">
 <img src="https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&#x26;logo=rubyonrails&#x26;logoColor=white" alt="Rails">
 <img src="https://img.shields.io/badge/Sinatra-000000?style=for-the-badge&#x26;logo=sinatra&#x26;logoColor=white" alt="Sinatra">

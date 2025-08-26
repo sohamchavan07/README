@@ -62,12 +62,6 @@ I'm **Soham**, a passionate **Fullstack Developer** from India, dedicated to cra
   <span style="color: #3572A5;">● Python 1.23%</span>
 </div>
 
-<style>
-@keyframes slideIn {
-  0% { width: 0%; }
-  100% { width: 100%; }
-}
-</style>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sohamchavan07&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" style="animation: fadeIn 2s ease-in;">

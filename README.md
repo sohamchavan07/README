@@ -5,19 +5,18 @@
 
 [![](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sh1yuu)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sh1yuu/)
-[![](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sh1yuu/)
+[![](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://github.com/sohamchavan07)
 
 ## 💬 About me
 
-I am a Frontend developer from Belarus.
+I am a Fullstack developer from India.
 
-- 👋 Hello everyone, my name is Mikhail.
+- 👋 Hello everyone, my name is Soham.
 - ✨ I like to create something new or improve the old, bringing it to a well-fledged quality product that you can enjoy using.
 - 🚀 Striving to improve my skills and broaden my experience.
 - 🌍 I want to find a team with whom I can work together to create something that benefits people.
-- 💻 I am actively looking for a job right now. [Here is my CV](https://drive.google.com/file/d/1pD9xa3qpjAuwEajw8o0MBGffsNZCUnkT/view?usp=sharing). Here is my [portfolio](https://sh1yuu.github.io/).
-
-- ⚡ Fun fact: I teach "IT Basics" to computer newbies and have lived in 4 countries.
+- 💻 I am actively looking for a job right now.
+- (https://drive.google.com/file/d/1pD9xa3qpjAuwEajw8o0MBGffsNZCUnkT/view?usp=sharing). Here is my [portfolio](https://github.com/sohamchavan07).
 
 ### Skills and Technologies:
 

@@ -45,13 +45,6 @@ I'm **Soham**, a passionate **Fullstack Developer** from India, dedicated to cra
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" style="animation: fadeIn 3.4s ease-in;">
 </div>
 
-<style>
-@keyframes fadeIn {
-  0% { opacity: 0; transform: translateY(20px); }
-  100% { opacity: 1; transform: translateY(0); }
-}
-</style>
-
 ## 📊 Most Used Languages
 <div style="height: 20px; width: 100%; background: linear-gradient(to right, #E34F26 0%, #E34F26 40.44%, #701516 40.44%, #701516 64.42%, #F0DB4F 64.42%, #F0DB4F 78.05%, #563D7C 78.05%, #563D7C 88.15%, #CD6799 88.15%, #CD6799 95.99%, #3572A5 95.99%, #3572A5 97.22%, #EADF8F 97.22%, #EADF8F 98.38%, #00ADD8 98.38%, #00ADD8 99.35%, #89E051 99.35%, #89E051 100%); border-radius: 5px; animation: slideIn 1.5s ease-in-out;"></div>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 10px;">

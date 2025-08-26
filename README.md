@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ludi317/dino-game/main/images/dino-game-2.gif" alt="Animated Dino Banner" width="600" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  <img src="https://raw.githubusercontent.com/sohamchavan07/sohamchavan07/main/porsche-banner.svg"
+       alt="Animated Porsche-style Banner" width="600"
+       style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
 </p>
+
 
 <h1 align="center" style="font-family: 'Arial', sans-serif; color: #2E2E2E;">👋 Welcome to My Profile!</h1>
 

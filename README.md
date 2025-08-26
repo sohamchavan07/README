@@ -1,11 +1,6 @@
+## VISITORS
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
 
-# sh1yuu / README.md
-
-![T-Rex Game](https://user-images.githubusercontent.com/25181517/117448147-7c0e0e00-af2b-11eb-9b6e-ea1e0c8f8a8d.gif)
-
-## VISITORS
-1,090
 
 [![](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sh1yuu)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sh1yuu/)

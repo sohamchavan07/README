@@ -1,3 +1,6 @@
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+
+
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&#x26;logo=ruby&#x26;logoColor=white" alt="Ruby">
 <img src="https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&#x26;logo=rubyonrails&#x26;logoColor=white" alt="Rails">
 <img src="https://img.shields.io/badge/Sinatra-000000?style=for-the-badge&#x26;logo=sinatra&#x26;logoColor=white" alt="Sinatra">

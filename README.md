@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ludi317/dino-game/main/images/dino-game-2.gif" alt="Animated Dino Banner" width="600" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHd6MnlqdDA0eDgxaW4yeXhkemFqYTBpYXh1d2U0aXRvdTB6bWt6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F0OJGFoTZdhVwQ4lGg/giphy.gif
 </p>
 
 
